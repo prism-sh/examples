@@ -14,14 +14,14 @@ The monorepo follows the following format: `interaction/language`. This codebase
 
 To get started, clone the repository and navigate to the example and language applicable to your team.
 
-**Contributing**
+## Contributing
 
 We welcome contributions from the community! If you find an issue, you can submit it under "Issues". We will review Issues and PRs as often as we can.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
-For questions, support, or collaboration inquiries, please contact our team at support@trustless.engineering.
+## Contact
+For questions, support, or collaboration inquiries, please contact our team at support@trustless.engineering or our [Discord](https://discord.com/invite/pmbc4NjctV).
 
 We are excited to see what you build with PRISM and look forward to your contributions!
