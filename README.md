@@ -12,7 +12,7 @@ The monorepo follows the following format: `interaction/language`. This codebase
 
 ## Getting Started
 
-To get started, clone the repository and navigate to the example and language applicable to your team.
+To get started, clone the repository and navigate to the example and language applicable to your team. Install dependencies with: `pnpm i` or `npm i`
 
 ## Contributing
 
